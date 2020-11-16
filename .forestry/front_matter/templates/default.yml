@@ -7,3 +7,8 @@ fields:
   type: text
   hidden: false
   default: default
+- name: sjkadlajsbd
+  type: image_gallery
+  config: {}
+  label: sjkadlajsbd
+  description: dsjknasöjdnfas
