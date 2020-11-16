@@ -63,6 +63,21 @@ page_sections:
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  slug: ''
+  content: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: bababbdsfjknasdöfkd
+    slug: adksjöjkfdasöfksa
+    content: aslkdfmnasödkfjasädkfj<br>aksolöaksäklask<br>a#sljfmaäskdfasädklmasädklmwaäsdmesadä
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
